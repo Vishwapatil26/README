@@ -12,12 +12,12 @@ I'm continuously building my skills in **scalable data pipelines, cloud data pla
 
 # 💫 About Me:
 
-🔭 **I'm currently working on:** Data Engineering projects using Azure, Databricks, PySpark, SQL and Python
-👯 **I'm looking to collaborate on:** Data Engineering, Cloud, AI/ML and open-source projects
-🤝 **I'm looking for help with:** Building scalable data pipelines and Data Engineering system design
-🌱 **I'm currently learning:** Advanced PySpark, Databricks, Azure Data Engineering and System Design
-💬 **Ask me about:** Python, SQL, PySpark, Azure Data Factory, Databricks, Synapse Analytics, Power BI and Data Analytics
-⚡ **Fun fact:** I started with AI & Data Science and ended up enjoying debugging data pipelines more than debugging ML models 😄
+🔭 **I'm currently working on:** Data Engineering projects using Azure, Databricks, PySpark, SQL and Python 
+👯 **I'm looking to collaborate on:** Data Engineering, Cloud, AI/ML and open-source projects 
+🤝 **I'm looking for help with:** Building scalable data pipelines and Data Engineering system design 
+🌱 **I'm currently learning:** Advanced PySpark, Databricks, Azure Data Engineering and System Design 
+💬 **Ask me about:** Python, SQL, PySpark, Azure Data Factory, Databricks, Synapse Analytics, Power BI and Data Analytics 
+⚡ **Fun fact:** I started with AI & Data Science and ended up enjoying debugging data pipelines more than debugging ML models 😄 
 
 ---
 
