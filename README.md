@@ -85,11 +85,11 @@ I'm continuously building my skills in **scalable data pipelines, cloud data pla
 
 # 📌 Featured Areas
 
-🔹 **Data Engineering:** Azure Data Factory, Databricks, Synapse, ADLS Gen2, PySpark
-🔹 **Programming:** Python, SQL, C++
-🔹 **Cloud:** Microsoft Azure, Google Cloud Platform
-🔹 **Analytics:** Power BI, Excel
-🔹 **AI/ML:** Machine Learning, NLP, Generative AI
+🔹 **Data Engineering:** Azure Data Factory, Databricks, Synapse, ADLS Gen2, PySpark  
+🔹 **Programming:** Python, SQL  
+🔹 **Cloud:** Microsoft Azure, Google Cloud Platform  
+🔹 **Analytics:** Power BI, Excel  
+🔹 **AI/ML:** Machine Learning, NLP, Generative AI  
 
 ---
 
