@@ -2,9 +2,7 @@
 
 ### 🚀 Data Engineer | Azure | Databricks | PySpark | SQL | Python
 
-I'm an Artificial Intelligence & Data Science engineer with hands-on experience in **Data Engineering, Cloud, Analytics, and AI/ML**.
-
-Currently working with technologies such as **Azure Data Factory, Azure Synapse Analytics, ADLS Gen2, Databricks, PySpark, SQL and Python**, with experience in monitoring and troubleshooting data pipelines and performing data validation and quality checks.
+I'm a **Data Engineer** with a background in AI & Data Science, working with **Azure Data Factory, Synapse Analytics, ADLS Gen2, Databricks, PySpark, SQL, and Python**. Experienced in **data pipelines, validation, troubleshooting, and cloud data platforms**.
 
 I'm continuously building my skills in **scalable data pipelines, cloud data platforms, distributed data processing, and Data Engineering system design.**
 
