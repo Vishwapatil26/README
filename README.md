@@ -35,15 +35,14 @@ I'm continuously building my skills in **scalable data pipelines, cloud data pla
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ### 🐍 Programming & Data Processing
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### 🗄️ Databases & Data Platforms
 
@@ -68,7 +67,6 @@ I'm continuously building my skills in **scalable data pipelines, cloud data pla
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge\&logo=servicenow\&logoColor=white)
 
 ---
 
